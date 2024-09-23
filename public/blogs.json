@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "cover": "https://via.placeholder.com/150/8e44ad/FFFFFF?text=Book+Cover+1",
+      "title": "The Enigmatic Forest",
+      "author": "John Smith",
+      "author_img": "https://via.placeholder.com/50/2980b9/FFFFFF?text=JS",
+      "reading_time": "8 min",
+      "hashtags": ["#nature", "#adventure", "#mystery"]
+    },
+    {
+      "id": 2,
+      "cover": "https://via.placeholder.com/150/c0392b/FFFFFF?text=Book+Cover+2",
+      "title": "Beyond the Stars",
+      "author": "Elena Garcia",
+      "author_img": "https://via.placeholder.com/50/e74c3c/FFFFFF?text=EG",
+      "reading_time": "5 min",
+      "hashtags": ["#space", "#sci-fi", "#exploration"]
+    },
+    {
+      "id": 3,
+      "cover": "https://via.placeholder.com/150/16a085/FFFFFF?text=Book+Cover+3",
+      "title": "Whispers in the Wind",
+      "author": "Raj Patel",
+      "author_img": "https://via.placeholder.com/50/27ae60/FFFFFF?text=RP",
+      "reading_time": "7 min",
+      "hashtags": ["#romance", "#mystery", "#drama"]
+    },
+    {
+      "id": 4,
+      "cover": "https://via.placeholder.com/150/2980b9/FFFFFF?text=Book+Cover+4",
+      "title": "The Lost Artifact",
+      "author": "Mia Johnson",
+      "author_img": "https://via.placeholder.com/50/8e44ad/FFFFFF?text=MJ",
+      "reading_time": "12 min",
+      "hashtags": ["#history", "#adventure", "#archaeology"]
+    },
+    {
+      "id": 5,
+      "cover": "https://via.placeholder.com/150/d35400/FFFFFF?text=Book+Cover+5",
+      "title": "A Glimpse of Tomorrow",
+      "author": "Alex Turner",
+      "author_img": "https://via.placeholder.com/50/c0392b/FFFFFF?text=AT",
+      "reading_time": "6 min",
+      "hashtags": ["#future", "#technology", "#innovation"]
+    },
+    {
+      "id": 6,
+      "cover": "https://via.placeholder.com/150/27ae60/FFFFFF?text=Book+Cover+6",
+      "title": "Echoes of the Past",
+      "author": "Sara Wilson",
+      "author_img": "https://via.placeholder.com/50/16a085/FFFFFF?text=SW",
+      "reading_time": "9 min",
+      "hashtags": ["#memoir", "#reflection", "#nostalgia"]
+    },
+    {
+      "id": 7,
+      "cover": "https://via.placeholder.com/150/e74c3c/FFFFFF?text=Book+Cover+7",
+      "title": "Beneath the Waves",
+      "author": "Carlos Mendes",
+      "author_img": "https://via.placeholder.com/50/d35400/FFFFFF?text=CM",
+      "reading_time": "10 min",
+      "hashtags": ["#ocean", "#mystery", "#survival"]
+    },
+    {
+      "id": 8,
+      "cover": "https://via.placeholder.com/150/8e44ad/FFFFFF?text=Book+Cover+8",
+      "title": "The Silent City",
+      "author": "Li Wei",
+      "author_img": "https://via.placeholder.com/50/2980b9/FFFFFF?text=LW",
+      "reading_time": "11 min",
+      "hashtags": ["#dystopia", "#urban", "#thriller"]
+    },
+    {
+      "id": 9,
+      "cover": "https://via.placeholder.com/150/2980b9/FFFFFF?text=Book+Cover+9",
+      "title": "Flames of Eternity",
+      "author": "Amara Singh",
+      "author_img": "https://via.placeholder.com/50/8e44ad/FFFFFF?text=AS",
+      "reading_time": "4 min",
+      "hashtags": ["#fantasy", "#epic", "#magic"]
+    },
+    {
+      "id": 10,
+      "cover": "https://via.placeholder.com/150/16a085/FFFFFF?text=Book+Cover+10",
+      "title": "The Midnight Chase",
+      "author": "Oliver Brown",
+      "author_img": "https://via.placeholder.com/50/27ae60/FFFFFF?text=OB",
+      "reading_time": "15 min",
+      "hashtags": ["#thriller", "#mystery", "#crime"]
+    }
+  ]
+  

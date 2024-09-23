@@ -6,6 +6,7 @@
       "author": "John Smith",
       "author_img": "https://via.placeholder.com/50/2980b9/FFFFFF?text=JS",
       "reading_time": "8 min",
+      "published_date": "10 Aug 2021",
       "hashtags": ["#nature", "#adventure", "#mystery"]
     },
     {
@@ -15,6 +16,7 @@
       "author": "Elena Garcia",
       "author_img": "https://via.placeholder.com/50/e74c3c/FFFFFF?text=EG",
       "reading_time": "5 min",
+      "published_date": "14 Aug 2021",
       "hashtags": ["#space", "#sci-fi", "#exploration"]
     },
     {
@@ -24,6 +26,7 @@
       "author": "Raj Patel",
       "author_img": "https://via.placeholder.com/50/27ae60/FFFFFF?text=RP",
       "reading_time": "7 min",
+      "published_date": "20 Aug 2021",
       "hashtags": ["#romance", "#mystery", "#drama"]
     },
     {
@@ -33,6 +36,7 @@
       "author": "Mia Johnson",
       "author_img": "https://via.placeholder.com/50/8e44ad/FFFFFF?text=MJ",
       "reading_time": "12 min",
+      "published_date": "20 Aug 2021",
       "hashtags": ["#history", "#adventure", "#archaeology"]
     },
     {
@@ -42,6 +46,7 @@
       "author": "Alex Turner",
       "author_img": "https://via.placeholder.com/50/c0392b/FFFFFF?text=AT",
       "reading_time": "6 min",
+      "published_date": "23 Sep 2021",
       "hashtags": ["#future", "#technology", "#innovation"]
     },
     {
@@ -51,6 +56,7 @@
       "author": "Sara Wilson",
       "author_img": "https://via.placeholder.com/50/16a085/FFFFFF?text=SW",
       "reading_time": "9 min",
+      "published_date": "24 Sep 2021",
       "hashtags": ["#memoir", "#reflection", "#nostalgia"]
     },
     {
@@ -60,6 +66,7 @@
       "author": "Carlos Mendes",
       "author_img": "https://via.placeholder.com/50/d35400/FFFFFF?text=CM",
       "reading_time": "10 min",
+      "published_date": "24 Sep 2021",
       "hashtags": ["#ocean", "#mystery", "#survival"]
     },
     {
@@ -69,6 +76,7 @@
       "author": "Li Wei",
       "author_img": "https://via.placeholder.com/50/2980b9/FFFFFF?text=LW",
       "reading_time": "11 min",
+      "published_date": "26 Sep 2021",
       "hashtags": ["#dystopia", "#urban", "#thriller"]
     },
     {
@@ -78,6 +86,7 @@
       "author": "Amara Singh",
       "author_img": "https://via.placeholder.com/50/8e44ad/FFFFFF?text=AS",
       "reading_time": "4 min",
+      "published_date": "28 Sep 2021",
       "hashtags": ["#fantasy", "#epic", "#magic"]
     },
     {
@@ -87,6 +96,7 @@
       "author": "Oliver Brown",
       "author_img": "https://via.placeholder.com/50/27ae60/FFFFFF?text=OB",
       "reading_time": "15 min",
+      "published_date": "30 Sep 2021",
       "hashtags": ["#thriller", "#mystery", "#crime"]
     }
   ]

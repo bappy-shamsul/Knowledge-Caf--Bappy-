@@ -1,6 +1,6 @@
 
 
-const Bookmarks = (bookmarks) => {
+const Bookmarks = ({bookmarks}) => {
     return (
         <div>
             <h1 className="text-4xl">Bookmarks: {bookmarks.length}</h1>

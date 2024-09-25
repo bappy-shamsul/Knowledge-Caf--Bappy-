@@ -1,5 +1,6 @@
 
-import PropTypes, { object } from 'prop-types';
+import PropTypes from 'prop-types';
+import { CiBookmark } from "react-icons/ci";
 
 const Blog = ({blog}) => {
     // console.log(blog)
@@ -21,10 +22,12 @@ const Blog = ({blog}) => {
                 </div>
 
                 <div>
-                    <span>Reading Time: {reading_time}</span>
+                    <span>Reading Time: {reading_time} <CiBookmark className='text-red-950 bg-red-950'/></span>
                 </div>
 
-                <div>
+            </div>
+
+            <div>
                     <h2 className='text-4xl'>{title}</h2>
                 </div>
                 <p>
@@ -32,12 +35,16 @@ const Blog = ({blog}) => {
                         hashtags.map((hash, idx)=> <span key={idx}><a href=''>#{hash}</a></span>)
                     }
                 </p>
-            </div>
         </div>
     );
 };
 
-Blog.propTypes = {
-    blog: PropTypes.object.isRequired
+// Blog.propTypes = {
+//     // blog: PropTypes.object.isRequired
+
+// }
+
+Blog.PropTypes = {
+    blog: PropTypes.object
 }
 export default Blog;

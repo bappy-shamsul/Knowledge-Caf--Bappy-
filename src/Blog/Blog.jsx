@@ -1,28 +1,29 @@
 
 import PropTypes from 'prop-types';
-import { CiBookmark } from "react-icons/ci";
+import { RiBookmark3Line } from "react-icons/ri";
 
-const Blog = ({blog}) => {
+const Blog = ({blog, handleBookMarks}) => {
     // console.log(blog)
     const {id, cover, title, author, author_img, published_date, reading_time, hashtags} = blog
     
-    console.log(published_date)
+    // console.log(published_date)
     return (
-        <div>
-            <img className='w-5/6 h-2/6' src={cover} alt={`Title of the cover is ${title}`}/>
+        <div className='mb-20'>
+            <img className='w-full' src={cover} alt={`Title of the cover is ${title}`}/>
             
             <div className='flex justify-between'>
                 <div className='flex justify-center'>
-                    <img className='w-14' src={author_img} />
-                    <div className='ml-6'>
+                    <img className='w-14 mt-4' src={author_img} />
+                    <div className='ml-6 mt-4'>
                         <h3>{author}</h3>
                         <p>{published_date}</p>
                         
                     </div>
                 </div>
 
-                <div>
-                    <span>Reading Time: {reading_time} <CiBookmark className='text-red-950 bg-red-950'/></span>
+                <div className='mt-4'>
+                    <span>Reading Time: {reading_time}</span>
+                    <button className='ml-4' onClick={() => handleBookMarks(blog)}><RiBookmark3Line  className='text-red-950 bg-red-950'></RiBookmark3Line></button>
                 </div>
 
             </div>
@@ -44,7 +45,9 @@ const Blog = ({blog}) => {
 
 // }
 
-Blog.PropTypes = {
-    blog: PropTypes.object
+Blog.propTypes = {
+    blog: PropTypes.object.isRequired,
+    handleBookMarks: PropTypes.func
+    
 }
 export default Blog;
